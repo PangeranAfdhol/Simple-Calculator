@@ -1,1 +1,1 @@
-Project sederhana ini dibuat menggunakan basic HTML, CSS
+Project sederhana ini dibuat menggunakan basic HTML, CSS :)
